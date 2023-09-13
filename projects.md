@@ -1,0 +1,1 @@
+This is our first project for this course. We are practicing the tools we learned in the command line as well as git. This includes how to collaborate with teammates and intialize repositories. In this part of the first project, I am creating my own website!
